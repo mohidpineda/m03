@@ -1,0 +1,5 @@
+TÃ­tol|Autor/a|Any de publicaciÃ³|Genere|ISBN
+1984|George Orwell|1949|Ciencia FicciÃ³n|978-0-452-28423-4
+El Principito|Antoine de Saint-ExupÃ©ry|1943|FÃ¡bula|978-3-16-148410-0
+Fahrenheit 451|Ray Bradbury|1953|DistopÃ­a|978-1-59307-301-9
+Don Quijote de la Mancha|Miguel de Cervantes|1605|Novela|978-84-206-1933-3
